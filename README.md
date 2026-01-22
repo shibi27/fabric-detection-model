@@ -42,6 +42,3 @@ The final optimized model classifies the following **4 fabrics**:
 - 👖 Denim  
 - 🪡 Silk  
 - 🧵 Nylon  
-
-> ⚠️ Visually similar fabrics such as wool and polyester were excluded to maintain high reliability.  
-> Future versions will incorporate **sensor fusion** for expanded fabric support.
