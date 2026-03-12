@@ -1,4 +1,4 @@
-# 🧵 Fabric Detection using CNN  
+# Fabric Detection using CNN  
 ### Smart Automatic Ironing System
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -9,14 +9,14 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **Fabric Detection using CNN** is a deep learning–based computer vision module developed for a smart automatic ironing machine.  
 The system automatically identifies the **type of fabric from an image** and enables **intelligent control of ironing temperature and steam**, reducing fabric damage and improving safety.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Manual ironing often leads to:
 - Incorrect temperature selection  
@@ -27,14 +27,14 @@ There is a need for an **intelligent, automated solution** that can **identify f
 
 ---
 
-## 💡 Solution
+## Solution
 
 This project uses a **lightweight Convolutional Neural Network (CNN)** to classify fabric images based on **texture and surface patterns**.  
 The model is optimized for **real-time and embedded deployment**.
 
 ---
 
-## 🧶 Supported Fabric Classes
+## Supported Fabric Classes
 
 The final optimized model classifies the following **4 fabrics**:
 
