@@ -38,7 +38,7 @@ The model is optimized for **real-time and embedded deployment**.
 
 The final optimized model classifies the following **4 fabrics**:
 
-- 🧺 Cotton  
-- 👖 Denim  
-- 🪡 Silk  
-- 🧵 Nylon  
+-  Cotton  
+-  Denim  
+-  Silk  
+-  Nylon  
